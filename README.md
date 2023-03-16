@@ -1,1 +1,1 @@
-# Dadso_acoes
+Esse projeto foi feito com o objetivo de analisar as médias moveis de algumas ações escolhidas, pudemos enxergar através dessa analise, graficos com preço de fechamento com menos ruidos e também podemos obersvar ao final, um grafico de calor para análisar as correlações entre essas ações. 
